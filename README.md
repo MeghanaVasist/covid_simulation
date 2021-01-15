@@ -1,5 +1,4 @@
 # Covid Simulation using Mesa
-## CODE:
 The Jupyter Notebook is given as simulation.ipynb  
 The code is written in Python==3.7.1
 
